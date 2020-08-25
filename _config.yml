@@ -10,10 +10,11 @@ author: Nadir Ali
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Publications:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Blog: "https://deanattali.com"
+#  CV: ""
 
 # --- Logo --- #
 
@@ -38,7 +39,7 @@ social-network-links:
 #  facebook: deanattali
 #  github: daattali
   twitter: iam_nadirali
-  google-scholar: "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
+#  google-scholar: "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -72,7 +73,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
