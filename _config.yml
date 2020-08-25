@@ -5,15 +5,16 @@ title: Nadir Ali
 
 # Your name to show in the footer
 author: Nadir Ali
-paginate: 5
-paginate_path: "/blog/page:num/"
+
+#Small description
+description: Research Scholar
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Publications:
     - Google Scholar: "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
-  Blog: "/blog/page:num/"
+  Blog: "blog"
 
 # --- Logo --- #
 
@@ -175,7 +176,7 @@ date_format: "%B %-d, %Y"
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: blog/:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
