@@ -6,8 +6,6 @@ title: Nadir Ali
 # Your name to show in the footer
 author: Nadir Ali
 
-#Small description
-description: Research Scholar
 # --- List of links in the navigation bar --- #
 
 navbar-links:
@@ -176,7 +174,7 @@ date_format: "%B %-d, %Y"
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: blog/:year-:month-:day-:title/
+permalink: /:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
