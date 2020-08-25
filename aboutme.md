@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
-
-My name is Nadir Ali. 
-
-- I'm a research scholar. 
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Hello, my name is Nadir Ali. I'm currently a senior researcher at  InPho lab, department of physics, IIT Roorkee. 
+I'm doing research in the field of silicon photonics. 
+In addition to research work. I assist in teaching and laboratory work.
+If you want to get in touch with me, I can be found on the [twitter](https://twitter.com/iam_nadirali).
