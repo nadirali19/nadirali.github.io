@@ -12,7 +12,6 @@ navbar-links:
   About Me: "aboutme"
   Publications:
     - Google Scholar: "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
-  Blog: paginate_path: "/blog/page:num/"
 #  CV: ""
 
 # --- Logo --- #
