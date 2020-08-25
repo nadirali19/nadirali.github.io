@@ -1,7 +1,12 @@
 # --- Required options --- #
+url: "https://nadirali19.github.io"
+baseurl: ""
 
 # Name of website
 title: Nadir Ali
+
+# Short description of your site
+description: Research Scholar.
 
 # Your name to show in the footer
 author: Nadir Ali
@@ -12,7 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Publications:
     - Google Scholar: "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
-  Blog: "blog"
+  Blog: ""
 
 # --- Logo --- #
 
