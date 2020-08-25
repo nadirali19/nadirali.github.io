@@ -11,11 +11,11 @@ author: Nadir Ali
 navbar-links:
   About Me: "aboutme"
   Publications:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Blog: "https://deanattali.com"
+    - Google Scholar: "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
+  #  - BibBase: "https://www.markdowntutorial.com/"
+  Blog: paginate_path: "/blog/page:num/"
 #  CV: ""
-paginate_path: "/blog/page:num/"
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
