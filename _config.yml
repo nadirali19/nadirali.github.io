@@ -5,7 +5,8 @@ title: Nadir Ali
 
 # Your name to show in the footer
 author: Nadir Ali
-
+paginate: 5
+paginate_path: "/blog/page:num/"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
