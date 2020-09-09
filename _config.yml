@@ -17,14 +17,9 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
   Publications:
-    - Publications: "publications"
     - Google Scholar: "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
   Resume: "resume/Nadir_Resume.pdf"
 
-collections:
-  publications:
-    output: true
-    permalink: /:collection/:name
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
