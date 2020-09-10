@@ -16,6 +16,7 @@ author: Nadir Ali
 navbar-links:
   Home: "index"
   About Me: "aboutme"
+#  Research: "research"
   Publications:
     - Google Scholar: "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
   Resume: "resume/Nadir_Resume.pdf"
