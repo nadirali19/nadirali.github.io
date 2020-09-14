@@ -1,4 +1,3 @@
-## Puublications 
 
  - N. Ali and R. Kumar, ["Tunable optical filter enabled by phase change material embedded in SOI microring resonator,"](https://arxiv.org/abs/2001.10430) arXiv preprint arXiv:2001.10430_ (2020).
  
