@@ -18,7 +18,7 @@ navbar-links:
   About Me: "aboutme"
 #  Research: "research"
   Publications:
-    - "publications"
+    - Publications: "publications"
     - Google Scholar: "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
   Resume: "resume/Nadir_Resume.pdf"
 
