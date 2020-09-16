@@ -6,7 +6,7 @@ published: true
 
  - N. Ali and R. Kumar, ["Tunable optical filter enabled by phase change material embedded in SOI microring resonator,"](https://arxiv.org/abs/2001.10430) arXiv preprint arXiv:2001.10430(2020).
  
- - N. Ali and R. Kumar, [“Mid-infrared non-volatile silicon photonic switches using nanoscale $Ge_{2}Sb_{2}Te_{5}$ embedded in silicon-on-insulator waveguides,"](https://iopscience.iop.org/article/10.1088/1361-6528/ab5a04) Nanotechnology, vol. 31, no. 11, p. 115207, Mar 2020, doi:10.1088/1361-6528/ab5a04
+ - N. Ali and R. Kumar, [“Mid-infrared non-volatile silicon photonic switches using nanoscale \(Ge_{2}Sb_{2}Te_{5}\) embedded in silicon-on-insulator waveguides,"](https://iopscience.iop.org/article/10.1088/1361-6528/ab5a04) Nanotechnology, vol. 31, no. 11, p. 115207, Mar 2020, doi:10.1088/1361-6528/ab5a04
  
  - N. Ali and R. Kumar, [“Design of a novel nanoscale high-performance phase-change silicon photonic switch,”](https://www.sciencedirect.com/science/article/pii/S1569441018301548) Photonics Nanostructures - Fundam. Appl., vol. 32, pp. 81–85, Dec. 2018, doi:10.1016/j.photonics.2018.10.007.
  
