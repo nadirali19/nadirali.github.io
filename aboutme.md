@@ -3,7 +3,7 @@ layout: page
 title: About me
 published: true
 ---
-![](/assets/img/avatar1.png)
+![a](/assets/img/avatar1.png)
 :wave: Hello, my name is Nadir Ali. I'm currently a research scholar at [InPho Research Lab](https://inpholab.in/), department of physics, [IIT Roorkee](https://www.iitr.ac.in/). 
 
 :computer: I am working in the field of reconfigurable silicon photonics, especially modelling and nunerical simulation of photonics devices such as switches, filters and modulators. 
