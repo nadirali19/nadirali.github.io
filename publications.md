@@ -4,11 +4,12 @@ title: Publications
 published: true
 ---
 
+I can also be found on [Google Scholar.](https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en&oi=ao)
+
 <strong style="color: white; background-color:red; border-radius: 4px; font-weight:normal; opacity: 0.60;">&nbsp; ArXiv &nbsp; </strong> &nbsp; N. Ali and R. Kumar, ["Tunable optical filter enabled by phase change material embedded in SOI microring resonator,"](https://arxiv.org/abs/2001.10430) arXiv preprint arXiv:2001.10430(2020).
  
 <strong style="color: white; background-color:green; border-radius: 4px; font-weight:normal; opacity: 0.60;">&nbsp; JOURNAL ARTICLE &nbsp; </strong> &nbsp; N. Ali and R. Kumar, [“Mid-infrared non-volatile silicon photonic switches using nanoscale Ge2Sb2Te5 embedded in silicon-on-insulator waveguides,"](https://iopscience.iop.org/article/10.1088/1361-6528/ab5a04) Nanotechnology, vol. 31, no. 11, p. 115207, Mar 2020, doi:10.1088/1361-6528/ab5a04
  
-
 <strong style="color: white; background-color:green; border-radius: 4px; font-weight:normal; opacity: 0.60;">&nbsp; JOURNAL ARTICLE &nbsp; </strong> &nbsp; N. Ali and R. Kumar, [“Design of a novel nanoscale high-performance phase-change silicon photonic switch,”](https://www.sciencedirect.com/science/article/pii/S1569441018301548) Photonics Nanostructures - Fundam. Appl., vol. 32, pp. 81–85, Dec. 2018, doi:10.1016/j.photonics.2018.10.007.
  
 <strong style="color: white; background-color:orange; border-radius: 4px; font-weight:normal; opacity: 0.60;">&nbsp; CONFERENCE PAPER &nbsp; </strong> &nbsp; N. Ali and R. Kumar, [“Electro-thermal Phase Change Investigation for Integrated Silicon Photonic Switch and Memory,”](https://www.springer.com/gp/book/9789811592584#aboutAuthors) in Proceedings of ICOL-2019, IRDE, Dehradun, Uttarakhand, India, vol. OPD-PP-3, p. 2, Oct. 2019.
