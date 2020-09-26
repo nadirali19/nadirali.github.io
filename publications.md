@@ -26,4 +26,4 @@ published: true
  
 <strong style="color: white; background-color:orange; border-radius: 6px; opacity: 0.80;"> CONFERENCE PAPER </strong> R. Kumar, S. Singh, N. Ali, and A. Sharma, [“Hybrid Silicon Photonic Devices for Switching and Memory Applications,”](https://www.iitk.ac.in/osi-iso2018/) in Proceedings of OSI-ISO 2018, IITK Kanpur, India, pp. 224–225, Sep. 2018.
  
- - N. Ali and R. Kumar, [“Mid Infra-red Directional Coupler Optical Switch Based on Phase Change Material Embedded in Partially Etched SOI Waveguide,”](https://www.osapublishing.org/abstract.cfm?uri=FiO-2018-JTu2A.102) in Frontiers in Optics / Laser Science (2018), p. JTu2A.102, Sep. 2018, doi:10.1364/FIO.2018.JTu2A.102.
+ <strong style="color: white; background-color:orange; border-radius: 6px; opacity: 0.80;"> CONFERENCE PAPER </strong> N. Ali and R. Kumar, [“Mid Infra-red Directional Coupler Optical Switch Based on Phase Change Material Embedded in Partially Etched SOI Waveguide,”](https://www.osapublishing.org/abstract.cfm?uri=FiO-2018-JTu2A.102) in Frontiers in Optics / Laser Science (2018), p. JTu2A.102, Sep. 2018, doi:10.1364/FIO.2018.JTu2A.102.
