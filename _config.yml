@@ -36,15 +36,15 @@ round-avatar: true
 
 
 # --- Footer social media links --- #
-author:
-  name             : "Rob Williams"
-  avatar           : "profile.png"
-  bio              : "Research Scholar"
-  location         : "Roorkee, UK"
-  email            : "nali@ph.iitr.ac.in"
-  twitter          :  iam_nadirali
-  google-scholar   : "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
-  orcid            : "https://orcid.org/0000-0003-3326-7652"
+#author:
+ # name             : "Rob Williams"
+  #avatar           : "profile.png"
+ # bio              : "Research Scholar"
+ # location         : "Roorkee, UK"
+ # email            : "nali@ph.iitr.ac.in"
+ # twitter          :  iam_nadirali
+ # google-scholar   : "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
+ # orcid            : "https://orcid.org/0000-0003-3326-7652"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
@@ -74,7 +74,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
