@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-author_profile: true
 published: true
 ---
 :wave: Hello, my name is Nadir Ali. I'm currently a research scholar at [InPho Research Lab](https://inpholab.in/), department of physics, [IIT Roorkee](https://www.iitr.ac.in/). 
