@@ -8,7 +8,8 @@ title: Nadir Ali
 # Short description of your site
 description: Research Scholar.
 
-# Your name to show in the footer
+# Your name to show in the 
+
 author: Nadir Ali
 
 # --- List of links in the navigation bar --- #
@@ -17,6 +18,7 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
 #  Research: "research"
+   Blog: "blog"
   Publications: "publications"
   #  - Google Scholar: "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
   Resume: "CV"
@@ -28,7 +30,7 @@ navbar-links:
 #avatar: "/assets/img/avatar1.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+#round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -36,8 +38,8 @@ round-avatar: true
 
 
 # --- Footer social media links --- #
-#author:
- # name             : "Rob Williams"
+author:
+ name               : "Nadir Ali"
   #avatar           : "profile.png"
  # bio              : "Research Scholar"
  # location         : "Roorkee, UK"
@@ -45,6 +47,9 @@ round-avatar: true
  # twitter          :  iam_nadirali
  # google-scholar   : "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
  # orcid            : "https://orcid.org/0000-0003-3326-7652"
+ email              : "nali@ph.iitr.ac.in"
+ twitter            :  iam_nadirali
+ google-scholar     :  "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
@@ -77,6 +82,16 @@ social-network-links:
 #rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
+
+# Select which links to show in the footer
+footer-links-active:
+  github: true
+  email: true
+  rss: false
+  facebook: false
+  twitter: true
+  google-scholar: true
+  
 
 # Select which social network share links to show in posts
 share-links-active:
@@ -194,7 +209,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-
+paginate_path: "/blog/page:num/"
 kramdown:
   input: GFM
 
