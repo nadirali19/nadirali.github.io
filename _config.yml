@@ -18,7 +18,7 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
 #  Research: "research"
-   Blog: "blog"
+  # Blog: "blog"
   Publications: "publications"
   #  - Google Scholar: "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
   Resume: "CV"
