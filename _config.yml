@@ -52,10 +52,10 @@ navbar-links:
  #google-scholar     :  "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-# social-network-links:
-#  email: "nali@ph.iitr.ac.in"
-#  twitter: iam_nadirali
-#  google-scholar: "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
+ social-network-links:
+ email: "nali@ph.iitr.ac.in"
+ twitter: iam_nadirali
+ google-scholar: "https://scholar.google.co.in/citations?user=f-GZ_FcAAAAJ&hl=en"
 #  facebook: deanattali
 #  github: daattali
   
