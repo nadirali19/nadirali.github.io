@@ -94,12 +94,12 @@ footer-links-active:
   
 
 # Select which social network share links to show in posts
-#share-links-active:
- # twitter: true
+share-links-active:
+ twitter: true
  # facebook: true
  # linkedin: false
  # vk: false
- # google-scholar: true
+  google-scholar: true
   
 
 # How to display the link to your website in the footer
